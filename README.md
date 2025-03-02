@@ -25,4 +25,4 @@ A simple number guessing game written in Python where the player tries to guess 
 ## Screenshot
 Here is a preview of the game running in the terminal:
 
-![Output](output.png)
+![Output](Output.png)
